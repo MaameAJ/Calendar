@@ -61,7 +61,7 @@ namespace Calendar.Models
                 date = date.AddDays(-1);
             }
 
-            return date:
+            return date;
         }
     }
 }
